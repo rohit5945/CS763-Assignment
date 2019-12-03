@@ -1,0 +1,1 @@
+{"layers_dims": [11664, 300, 150, 60, 32, 10, 6], "learning_rate": 1e-05, "num_iterations": 25, "L2_regularizer_lambd": 5e-05, "momentum_beta": 0.9, "momentum_beta2": 0.999, "mini_batch_size": 512, "learning_rate_decay": 0.0, "keep_prob": 0.9}
